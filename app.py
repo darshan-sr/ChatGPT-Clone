@@ -3,7 +3,7 @@ import openai
 
 st.set_page_config(page_title='ChatGPT Clone') 
 
-openai.api_key = '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'
+openai.api_key = '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'
 
 hide_st_style = """
             <style>
