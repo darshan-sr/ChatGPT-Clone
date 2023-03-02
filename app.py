@@ -28,7 +28,7 @@ with tab1:
     
     with co1:
     
-      temp = st.slider('Set Temperature',min_value=0.0,max_value=1.0,step=0.1)
+      temp = st.slider('Set Temperature',min_value=0.0,max_value=1.0,step=0.1,value=0.5)
     
     with co2:
        st.write('')
